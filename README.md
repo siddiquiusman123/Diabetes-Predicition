@@ -26,7 +26,7 @@ It is deployed as an interactive **Streamlit web application**, where users can 
 
 ## 🌐 Live Demo
 🔗 Click here to try the app  
-👉 [Diabetes Prediction App](https://your-streamlit-app-link.streamlit.app/)  
+👉 [Diabetes Prediction App](https://diabetes-predicition-e9auqesqmyzmhs7wyryk78.streamlit.app/)  
 
 ---
 
