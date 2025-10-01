@@ -19,7 +19,8 @@ It is deployed as an interactive **Streamlit web application**, where users can 
 - scikit-learn  
 - Streamlit  
 - Matplotlib / Seaborn  
-- Joblib  
+- Joblib
+- imblearn
 
 ---
 
