@@ -1,8 +1,6 @@
-pandas
-numpy
-scikit-learn
-joblib
-streamlit
-xgboost
-imblearn
-altair
+streamlit>=1.30.0
+pandas>=2.0.0
+numpy>=1.25.0
+scikit-learn>=1.2.0
+joblib>=1.3.0
+altair>=5.0.0
